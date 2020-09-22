@@ -4,4 +4,4 @@ I thought this was so cool I had to make my own version and play around with it.
 
 ## Link to Deployed Site
 Click and drag your mouse to stir the fluid!
-https://macparthum.github.io/Fluid_Simulator/
+https://macparthum.github.io/Fluid_Simulation/
